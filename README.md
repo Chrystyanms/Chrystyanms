@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FrontEnd`**
 
-Me chamo Gabriel Christian, tenho 26 anos e sou natural de São José dos Campos. Atualmente, estou fazendo transição de carreira para aréa da Programação, iniciando pelo Front End, mas com objetivo de me tornar um FullStack. Sou apaixonado por tecnologia e me desafiar.
+Me chamo Gabriel Christian, tenho 26 anos e sou natural de São José dos Campos. Atualmente, estou fazendo transição de carreira para área da Programação.Iniciando pelo Front End, mas com objetivo de me tornar um FullStack. Sou apaixonado por tecnologia e me desafiar.
 
 <p align="left">
     </a> 
